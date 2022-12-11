@@ -1,7 +1,12 @@
-# Utsob Roy
-###### Programmer, writer, and thought criminal.
+# I am Utsob Roy,
+### A programmer, writer, and thought criminal.
 
-I mostly code in Python, TypeScript, and Rust.  
+I mostly code in Python, TypeScript, and Rust. In writing, I enjoy doing experiments while not publishing them at all. I'm a **thought criminal** in the Orwellian sense.
 
-### Links
-[🌐](https://utsob.me) [📨](mailto:connect@utsob.me) [🦣](https://fosstodon.org/@uroybd){:rel="me"}
+### In my leisure...
+I like to contribute in opensource projects, solve problems, and listen to not too noisy music. I would have added reading here, however, that is my default mode of existence. I enjoy making unnecessary cool things. You can find one such at [CyberEnsō](https://enso.utsob.me).
+
+### Significant part of my digital footprint consists of...
+A website acommpanied by 2 blogs at [utsob.me](https://utsob.me), a email address where you can send even encrypted emails: [connect@utsob.me](mailto:connect@utsob.me), a <a rel="me" href="https://fosstodon.org/@uroybd">FOSStodon/Mastodon</a> account where I'm active.
+
+[![uroybd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uroybd)](https://github.com/anuraghazra/github-readme-stats)
