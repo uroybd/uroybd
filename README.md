@@ -14,5 +14,5 @@ A website acommpanied by 2 blogs at [utsob.me](https://utsob.me), a email addres
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uroybd&show_icons=true&theme=transparent"/>
 </a>
 <a href="https://wakatime.com/@uroybd" traget="_blank">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=5&layout=default"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=8&layout=compact"/>
 </a>
