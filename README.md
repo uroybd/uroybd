@@ -9,4 +9,4 @@ I like to contribute in opensource projects, solve problems, and listen to not t
 ### Significant part of my digital footprint consists of...
 A website acommpanied by 2 blogs at [utsob.me](https://utsob.me), a email address where you can send even encrypted emails: [connect@utsob.me](mailto:connect@utsob.me), a <a rel="me" href="https://fosstodon.org/@uroybd">FOSStodon/Mastodon</a> account where I'm active.
 
-[![uroybd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uroybd)](https://github.com/anuraghazra/github-readme-stats)
+![uroybd's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=onedark)
