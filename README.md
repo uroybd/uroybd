@@ -1,5 +1,5 @@
 # I am Utsob Roy,
-### A programmer, writer, and thought criminal.
+**A programmer, writer, and thought criminal.**
 
 I mostly code in Python, TypeScript, and Rust. In writing, I enjoy doing experiments while not publishing them at all. I'm a **thought criminal** in the Orwellian sense. I agree wuth Socrates on the fact that an unexamined life is not worth living.
 
