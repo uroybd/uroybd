@@ -12,8 +12,8 @@ A website accompanied by 2 blogs at [utsob.me](https://utsob.me), a email addres
 
 ## Stats
 <a href="https://github.com/uroybd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uroybd&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uroybd&show_icons=true&theme=transparent&hide_border=true&line_height=20&custom_title=Github"/>
 </a>
 <a href="https://wakatime.com/@uroybd" traget="_blank">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=8&layout=compact"/>
+  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=6&layout=compact&hide_border=true&hide=Text,Toml,fish,json,bash,Git,Markdown&custom_title=Most%20Used%20Languages"/>
 </a>
