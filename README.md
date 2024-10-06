@@ -17,3 +17,6 @@ A website accompanied by 2 blogs at [utsob.me](https://utsob.me), a [digital gar
 <!-- a href="https://wakatime.com/@uroybd" traget="_blank">
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=6&layout=compact&hide_border=true&hide=Text,Toml,fish,json,bash,Git,Markdown&custom_title=Most%20Used%20Languages"/>
 </a -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
