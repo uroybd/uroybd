@@ -17,15 +17,3 @@ A website accompanied by 2 blogs at [utsob.me](https://utsob.me), a [digital gar
 <!-- a href="https://wakatime.com/@uroybd" traget="_blank">
   <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=uroybd&theme=transparent&show_icons=true&langs_count=6&layout=compact&hide_border=true&hide=Text,Toml,fish,json,bash,Git,Markdown&custom_title=Most%20Used%20Languages"/>
 </a -->
-
-<!--START_SECTION:waka-->
-
-```txt
-Python     54 mins         ████████▓░░░░░░░░░░░░░░░░   34.05 %
-tmux       33 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-TOML       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-YAML       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-INI        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-```
-
-<!--END_SECTION:waka-->
