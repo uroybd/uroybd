@@ -21,7 +21,11 @@ A website accompanied by 2 blogs at [utsob.me](https://utsob.me), a [digital gar
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     54 mins         ████████▓░░░░░░░░░░░░░░░░   34.05 %
+tmux       33 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+TOML       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+YAML       22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+INI        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
 ```
 
 <!--END_SECTION:waka-->
